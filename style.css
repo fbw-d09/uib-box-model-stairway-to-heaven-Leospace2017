@@ -1,0 +1,145 @@
+:root
+{
+    box-sizing: content-box;
+    border-collapse: collapse;
+}
+#box
+{
+    height: 600px;
+    width: 600px;
+    border: 10px solid rgb(253, 101, 126);
+
+    
+}
+.box1
+{
+    width: 150px;
+    height: 150px;
+    background-color: greenyellow;
+
+    /* display: inline-block; */
+    margin-left: 75%;
+
+
+}
+.box2
+{
+    width: 140px;
+    height: 140px;
+    background-color: greenyellow;
+    border: 5px solid black;
+    /* display: inline-block; */
+    margin-left:50% ;
+
+    
+
+}
+.box3
+{
+    width: 150px;
+    height: 150px;
+    background-color: greenyellow;
+    /* display: inline-block; */
+    margin-left: 25%;
+
+
+
+}
+.box4
+{
+    width: 140px;
+    height: 140px;
+    background-color: greenyellow;
+    border: 5px solid black;
+    /* display: inline-block; */
+
+
+}
+
+
+
+
+#treppe
+{
+    
+    height: 600px;
+    width: 600px;
+    border: 10px solid rgb(253, 101, 126);
+    position: relative;
+}
+
+.treppe1
+{
+    left: 0;
+    width: 140px;
+    height: 140px;
+    border: 5px solid red;
+    background-color: yellow;
+    color: red;
+
+
+}
+
+.treppe2
+{
+    width: 140px;
+    height: 140px;
+    border: 5px solid red;
+    /* background-color: yellow; */
+    padding-left:25% ;
+    box-sizing: content-box;
+    background-color: yellow;
+
+
+
+}
+
+.treppe3
+{
+    width: 140px;
+    height: 140px;
+    border: 5px solid red;
+    padding-left: 50%;
+    background-color: yellow;
+
+
+
+}
+.treppe4
+{
+    width: 140px;
+    height: 140px;
+    border: 5px solid red;
+    padding-left: 75%;
+    background-color: yellow;
+
+
+}
+
+.red-1
+{
+    height: 150px;
+    width: 150px;
+    background-color: red;
+
+    position: absolute;
+}
+
+
+.red-2
+{
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    background-color: red;
+    padding-left: 150px;
+}
+.red-3
+{
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    background-color: red;
+    padding-left: 300px;
+
+}
